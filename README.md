@@ -68,7 +68,8 @@ O autômato utiliza uma pilha para controlar os delimitadores de abertura ainda 
 
 ## Diagrama do autômato
 
-diagrama no excalidraw
+<img width="1520" height="1034" alt="image" src="https://github.com/user-attachments/assets/a0b48646-af72-4fd5-99c5-37f610affd19" />
+
 
 ## Estados
 
