@@ -1,0 +1,38 @@
+# Binários gerados
+/automato_pilha
+/automato_pilha.exe
+*.exe
+*.out
+*.app
+
+# Arquivos objeto e bibliotecas
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Pastas de build
+/build/
+/cmake-build-*/
+/CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
